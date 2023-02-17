@@ -54,7 +54,7 @@
     "article_action_tags_title": "タグの管理-ショートカット:t",
     "article_action_delete_title": "このエントリを完全に削除-ショートカット:d",
     "article_action_delete_body": "削除",
-    "article_fromline_from": "から",
+    "article_fromline_from": "from",
     "article_fromline_by": "by",
     "article_fromline_clicktoload": "クリックしてこのフィードから記事を読み込む",
     "article_header_clicktip": "元の記事を新しいタブで開きます。記事領域の別の場所をクリックして展開します。",
