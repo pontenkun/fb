@@ -431,7 +431,7 @@
     "ruleform_condition_containswords_title": "スペースを含まないカンマで区切った単語-例:foo,bar,xyz",
     "ruleform_condition_doesnotcontainwords_body": "単語を含まない",
     "ruleform_condition_doesnotcontainwords_title": "スペースを含まないカンマで区切った単語-例:foo,bar,xyz",
-    "ruleform_condition_containsanywords_body": "任意の単語を含む",
+    "ruleform_condition_containsanywords_body": "いずれかの単語を含む",
     "ruleform_condition_containsanywords_title": "スペースのないカンマで区切った単語-例:foo,bar,xyz",
     "ruleform_condition_containsanywithsthatwithwithwith_body": "次で始まる単語を含む",
     "ruleform_condition_containsanywithsthatstartwith_title": "プレフィックスをカンマで区切り,スペースを入れない-例:foo,bar,xyz",
